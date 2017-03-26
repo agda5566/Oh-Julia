@@ -1,8 +1,6 @@
-
-a {
-    text-decoration:none;
-
-}
 a:hover{
   color: black;
+}
+.big-icon {
+    font-size: 7em;
 }
